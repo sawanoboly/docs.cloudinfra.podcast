@@ -64,9 +64,23 @@ WIP
 
 ## サポーター
 
-patreonにて準備中。
+patreonにて、1トラックあたり￥100の設定を目指して準備中です。
 
 - https://www.patreon.com/nobolycloud
+
+また、別口で投げ銭して頂ける場合のBitcoinアドレスはこちら。
+
+![Bitcoin](./_images/1H2gxrCgLGKUXPrVdwQ7prHYAkqfhPQBdc.png)
+
+Bitcoin addr: `1H2gxrCgLGKUXPrVdwQ7prHYAkqfhPQBdc`
+
+----
+
+こちらはBitcoin Cash.
+
+![Bitcoin Cash](./_images/qzha8jdsk4eaeh7ef4r78pr6lj3pglfasc6sw4wxzv.png)
+
+Bitcoin Cash addr: `qzha8jdsk4eaeh7ef4r78pr6lj3pglfasc6sw4wxzv`
 
 ## スポンサー
 
