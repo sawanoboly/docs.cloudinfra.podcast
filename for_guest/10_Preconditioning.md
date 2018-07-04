@@ -16,7 +16,7 @@
 - https://www.facebook.com/yukihiko.sawanobori
 - https://twitter.com/sawanoboly
 - Discord `sawanoboly#4114`
-
+- Skype `sawanoboly` (こちらはわりとオフライン)
 
 ## 収録予定日の調整
 
