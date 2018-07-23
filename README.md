@@ -64,7 +64,7 @@ WIP
 
 ## サポーター
 
-patreonにて、1トラックあたり￥100の設定を目指して準備中です。
+patreonにて、1トラックあたり￥100または￥200の設定でお申し込みが可能です。
 
 - https://www.patreon.com/nobolycloud
 

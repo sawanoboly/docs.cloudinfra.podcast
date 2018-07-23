@@ -13,11 +13,12 @@ nobolycloudで、サービス紹介やイベント告知、求人などを流し
 |配信に音声を挿入 |JPY 8,000 |音声編集時、番組中盤に差し込みます。トークで触れるかは音声受け取りのタイミングによってまちまち。30-60秒程度を目安。 |
 |カスタム |時価 |なにか変わったことをさせたいコース。 例: サービス触りながら実況。イベント現地で取材ぽく収録。求人面接を収録。など。 |
 
-お申込みは下記あたりから適当に選択してご連絡ください。お支払いメソッドは連絡中に調整します。
+お申込みは下記あたりから適当に選択してご連絡ください。
 
 - [@sawanoboly | Twitter ](https://twitter.com/sawanoboly) のDM
 - [Facebook](https://www.facebook.com/yukihiko.sawanobori) のメッセンジャー
 - [Discodeコミュニティ](https://discord.gg/AxAwMER) のDM
 
+Stripeを利用したお支払いフォームがこちらにあります。 => [https://pay.sponsor.cloudinfra.audio](https://pay.sponsor.cloudinfra.audio)
 
 スポンサー料は個人事業の雑収入として計上し、確定申告時に関連した税金が課されます。のこりを機材購入・配信環境の維持費にあてます。
