@@ -56,11 +56,22 @@ Podcastのゲストは大抵DM等で突然依頼か、全く面識なければ�
 
 ## 編集
 
-WIP
+ざっくり以下の順番でツールを通していきます。
+
+- Audacity: 全体のノイズ除去
+- Logic Pro X: カット編集&エフェクト
+- The Levelator: レベル調整
+- Forecast: チャプター & mp3 output
+
+編集に費やす時間はノイズ状況・ロケーションや参加人数によりけりで、収録時間 x 1.5から3.0 くらい目安。
 
 ## 配信
 
-WIP
+3箇所で調整しつつ。
+
+- SoundCloud: mp3ホスティング
+- Medium: Shownote
+- Patreon: おまけのmp3
 
 ## サポーター
 
