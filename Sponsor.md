@@ -19,6 +19,11 @@ nobolycloudで、サービス紹介やイベント告知、求人などを流し
 - [Facebook](https://www.facebook.com/yukihiko.sawanobori) のメッセンジャー
 - [Discodeコミュニティ](https://discord.gg/AxAwMER) のDM
 
-Stripeを利用したお支払いフォームがこちらにあります。 => [https://pay.sponsor.cloudinfra.audio](https://pay.sponsor.cloudinfra.audio)
+お支払いは以下からご都合の良いものをご選択くださいませ。
+
+- Stripeを利用したお支払いフォーム => [https://pay.sponsor.cloudinfra.audio](https://pay.sponsor.cloudinfra.audio)
+- 銀振り
+- 手渡し
+- Amazonギフト
 
 スポンサー料は個人事業の雑収入として計上し、確定申告時に関連した税金が課されます。のこりを機材購入・配信環境の維持費にあてます。
