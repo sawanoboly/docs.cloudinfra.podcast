@@ -58,7 +58,8 @@ Podcastのゲストは大抵DM等で突然依頼か、全く面識なければ�
 
 ざっくり以下の順番でツールを通していきます。
 
-- Audacity: 全体のノイズ除去
+- iZotope RX7 Elements: 自分のリップノイズとか除去
+  - Audacity: 全体のノイズ除去 (有料のiZotope RX7導入により予備へ)
 - Logic Pro X: カット編集&エフェクト
 - The Levelator: レベル調整
 - Forecast: チャプター & mp3 output
