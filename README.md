@@ -94,6 +94,17 @@ Bitcoin addr: `1H2gxrCgLGKUXPrVdwQ7prHYAkqfhPQBdc`
 
 Bitcoin Cash addr: `qzha8jdsk4eaeh7ef4r78pr6lj3pglfasc6sw4wxzv`
 
+### Brave Payments
+
+他にも、[Brave](https://brave.com/clo953)というブラウザがコンテンツの閲覧とクリエイターへの投げ銭を両立させる仕組みを運用してみているとのことで、関連サイトやドメインなどを登録しています。
+
+[![Bitcoin Cash](./_images/switch_banner_3.png)](https://brave.com/clo953)
+
+現在以下のコンテンツを[Brave](https://brave.com/clo953)で閲覧すると暗号通貨`BAT`として投げ銭できる模様です。
+
+- [https://cloudinfra.audio/](https://cloudinfra.audio/) のコンテンツ
+- Twitchの[nobolycloudチャンネル](https://www.twitch.tv/nobolycloud)
+
 ## スポンサー
 
 こちら => [nobolycloud スポンサーのお申込みについて](./Sponsor.md)
